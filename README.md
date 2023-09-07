@@ -45,7 +45,7 @@ A comparison plot between the original "Open" column and a 30-day rolling mean o
 ## Conclusion
 This EDA provides a comprehensive overview of the Tesla stock price time series data, including basic data preprocessing, visualization of stock price trends, and exploration of resampling and rolling techniques. Further analysis and modeling can be performed based on these initial insights.
 
-Data Overview:
+## Data Overview and observations:
 
 The dataset contains 2,416 entries.
 It includes columns such as Date, Open, High, Low, Close, Adjusted Close, and Volume.
